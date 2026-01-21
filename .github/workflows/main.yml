@@ -1,1 +1,54 @@
+name: Daily Outreach + Lead Generation
 
+on:
+  schedule:
+    # रोज़ सुबह 9:00 बजे IST (UTC = 03:30)
+    - cron: "30 3 * * *"
+  workflow_dispatch:   # manual run option
+
+permissions:
+  contents: write   # ताकि state files commit हो सकें
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Repo checkout
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # Step 2: Python setup
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # Step 3: Install dependencies
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # Step 4: Run daily automation
+      - name: Run Daily Script
+        env:
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+          HF_API_KEY: ${{ secrets.HF_API_KEY }}
+          HF_MODEL: ${{ secrets.HF_MODEL }}
+          TELEGRAM_BOT1_TOKEN: ${{ secrets.TELEGRAM_BOT1_TOKEN }}
+          TELEGRAM_BOT2_TOKEN: ${{ secrets.TELEGRAM_BOT2_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TOPIC: ${{ secrets.TOPIC }}
+          MAX_OUTREACH_EMAILS_PER_RUN: "20"
+          SLEEP_BETWEEN_SENDS_SEC: "6"
+        run: python main_daily.py
+
+      # Step 5: Commit updated state files back to GitHub
+      - name: Commit state updates
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add state/prospects.csv data/lead_pool_master.csv data/generated_leads/
+          git diff --staged --quiet || git commit -m "Daily update: prospects + new leads"
+          git push
+          
