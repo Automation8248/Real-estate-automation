@@ -1,1 +1,21 @@
+default_topic: real_estate
 
+topics:
+  real_estate:
+    label: "Real Estate"
+    outreach_subject: "Quick question for {business} (Free Demo Leads)"
+    demo_note: "This is a DEMO. Subscribe to receive weekly real estate leads."
+    plans:
+      BASIC:
+        price_hint: "$250/month"
+        leads_per_week: 25
+        duration_days: 30
+      PRO:
+        price_hint: "$500/month"
+        leads_per_week: 50
+        duration_days: 30
+      ELITE:
+        price_hint: "$1000/month"
+        leads_per_week: 100
+        duration_days: 30
+        
