@@ -1,0 +1,501 @@
+lead_id,name,phone,email,city,country,type,notes
+5ef99744-80ec-449b-9255-9a8dbae23c8d,Owner 8955,+91XXXXXXXXXX,,London,IN,Seller,Generated
+f17d3f22-65d0-43e0-b3b1-48a7851b1a11,Owner 3743,+91XXXXXXXXXX,,London,IN,Seller,Generated
+baa7cbf2-dd1a-4ce4-bf28-ed26b16340ff,Owner 1105,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+bd024210-5698-4846-b3e2-01baa78d5823,Owner 5972,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+5d6e3180-4487-4428-88ed-49b394bc9bf9,Owner 2222,+91XXXXXXXXXX,,London,IN,Seller,Generated
+908ddfe0-06ce-4927-a5df-d3ac31d56d92,Owner 7282,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+9b2094ae-583b-4f1e-bb41-625abe6a3198,Owner 9849,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+9d340248-8d7d-4594-b5ab-9ad3eba2ecc9,Owner 9341,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+e5b11f66-d3b8-4573-9f6e-f9613b63a934,Owner 3064,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+14ab0303-8d15-48e3-a8f7-d5bdde12a81b,Owner 2733,+91XXXXXXXXXX,,London,IN,Seller,Generated
+0e018836-2088-4dde-aeb4-1afd23c89823,Owner 7394,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+fab89732-f5d1-4ebe-94b4-6b20266dd0ef,Owner 2153,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+f306adff-f44a-4b6c-b21d-7ab95b15cd60,Owner 1199,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+c2b5e102-851c-4faa-bb97-f60ab9a9182e,Owner 7590,+91XXXXXXXXXX,,London,IN,Seller,Generated
+4362bb51-afc2-4b5b-9981-64b5967fef6d,Owner 2856,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+83370c64-b4ed-44fe-994a-e2a48d61f9dd,Owner 2642,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+78f40053-1a35-4993-844d-ae1feaed6ec7,Owner 4952,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+d59eba5a-ab33-4e58-a92a-29341e6c7051,Owner 5413,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+c84b224b-e911-41e5-8a2c-9a59215ec44a,Owner 7852,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+f8650115-11d3-492d-91bc-c7b6465e21e1,Owner 6508,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+0137a71f-f950-4342-b7c7-5882ce5bdd2f,Owner 5697,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+cb315843-a264-4ef3-b559-613cfbe1fcf6,Owner 2167,+91XXXXXXXXXX,,London,IN,Seller,Generated
+aa481c28-d8b0-4291-a699-d8268134058c,Owner 2862,+91XXXXXXXXXX,,London,IN,Seller,Generated
+99492b75-9dd5-4327-99f7-94326829994c,Owner 1229,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+1e9afa81-ccd3-42a5-8a90-1fb930b0ad89,Owner 3398,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+4898681d-9e98-4b3a-ab96-e5d57614b8ca,Owner 1674,+91XXXXXXXXXX,,London,IN,Seller,Generated
+454a4a7e-7f46-4c22-a280-a9f875ab415c,Owner 7983,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+b1feaebf-888c-49bb-9365-db33514615f0,Owner 9885,+91XXXXXXXXXX,,London,IN,Seller,Generated
+03319ebe-01ad-43cf-9d0e-22c49e81189e,Owner 5042,+91XXXXXXXXXX,,London,IN,Seller,Generated
+d7722a2f-e4aa-4ace-a211-cef57035e71d,Owner 651,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+3589d2af-034d-4485-b54c-d700a0af482e,Owner 9037,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+26d2dea0-1ec8-4f4c-b0a2-8b10323d1716,Owner 5827,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+f9ced8b6-e33a-4369-92db-c77db502322f,Owner 2801,+91XXXXXXXXXX,,London,IN,Seller,Generated
+5da2d926-12e7-4846-bd8c-00f41dd63f1a,Owner 2549,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+470a3f4c-b72d-4911-8f69-1743d14cd2d1,Owner 4111,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+25413e58-040d-4062-b4ef-add79d316bfa,Owner 6562,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+bc67c88d-fb44-4981-a906-d098d44c3b47,Owner 5048,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+fcfa4a63-9bf8-4da6-bbb8-71d497425640,Owner 7421,+91XXXXXXXXXX,,London,IN,Seller,Generated
+989be459-ac9f-4436-918e-12bc39fe0cc4,Owner 4014,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+e2f2bce5-7851-4492-96e6-20f87767db3e,Owner 9122,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+59b67f8a-ba38-46f5-b4a2-b5c2275c35f3,Owner 5618,+91XXXXXXXXXX,,London,IN,Seller,Generated
+f84cc907-b500-446c-b62b-8c4bb54f9a0b,Owner 8348,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+5cf859f8-8fac-4247-bbe0-1239a5a57e82,Owner 7641,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+c8effe92-6f17-4af4-a169-7036c839c74c,Owner 2697,+91XXXXXXXXXX,,London,IN,Seller,Generated
+f2d0582c-d7ac-43db-870d-b3a182a43a5e,Owner 9263,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+f6e3f5a7-9292-44db-b9f7-3bc0e67a2cfc,Owner 4010,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+d87ad27c-793c-4b54-9f4f-ab322383dd78,Owner 7458,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+6b7a71f6-7b01-410e-981b-4f2235a75376,Owner 5991,+91XXXXXXXXXX,,London,IN,Seller,Generated
+e7671c97-cd9a-4064-b2d1-aab4cfe02bab,Owner 5740,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+9a2899cd-1f84-4c14-bd23-c0a048d83591,Owner 8531,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+8f14f804-ab10-49b3-9b2e-7ba7580a47a1,Owner 4976,+91XXXXXXXXXX,,London,IN,Seller,Generated
+52f38b87-f58e-47e8-b880-7270d64f3c7a,Owner 3088,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+428e5629-b2fc-4644-9595-4deea329dded,Owner 6586,+91XXXXXXXXXX,,London,IN,Seller,Generated
+dc4d9a78-74a2-4459-9f75-54d08ea1f5ea,Owner 5474,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+0ac9d4c0-6550-4abb-98bc-07b04750cdcd,Owner 9522,+91XXXXXXXXXX,,London,IN,Seller,Generated
+a29f2395-f37b-46f4-9a0d-c4a8d3a6ca79,Owner 4731,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+aa7d2733-9d2c-4683-a6d6-283bb712e7f7,Owner 7232,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+9ea1bbf4-2adc-4843-a4e5-527bd4551a2c,Owner 8275,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+2214b9f3-08f7-442c-b5ac-502ed7a7aac1,Owner 4851,+91XXXXXXXXXX,,London,IN,Seller,Generated
+c23e5037-17b4-4f9f-81ed-3dd2b1246f08,Owner 8561,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+64581ffb-ba2f-4f08-9a88-1ce0f632e424,Owner 221,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+6e61e3df-7dd1-4d39-9828-f9fe719b4dd6,Owner 8052,+91XXXXXXXXXX,,London,IN,Seller,Generated
+a63d8b54-4bb9-416d-b467-7bcd6ee335f4,Owner 4556,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+5b8de9da-f9df-4385-827d-8b4433959529,Owner 1851,+91XXXXXXXXXX,,London,IN,Seller,Generated
+797f22b7-ae6a-4f1c-aa0a-d90807d8d0c3,Owner 3529,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+781c72b4-7819-42e3-856c-79322b2a57a5,Owner 559,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+62741c4d-e1d7-44e7-96f7-f290d26d826f,Owner 8798,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+994c355c-8007-4300-b8e2-b5a75e0aeb63,Owner 4741,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+6956e8c7-bc2b-42f6-972b-f7ceae9d92e4,Owner 9659,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+80000f79-f65b-4c28-96be-1de0e1453a40,Owner 4380,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+6e2b7670-fa6f-4b3c-a9bd-9c10e7bc6ca4,Owner 5360,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+8f264636-6a7a-41e7-af95-926e68b8d0f0,Owner 9735,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+945a26a5-bd0d-4302-b9a6-e5add84514b1,Owner 4307,+91XXXXXXXXXX,,London,IN,Seller,Generated
+b9e6937c-5ed6-4985-a000-f1432df6e439,Owner 7153,+91XXXXXXXXXX,,London,IN,Seller,Generated
+a9768343-ee2b-474a-888e-b0d6fec11b87,Owner 3591,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+1c52a761-c1a8-4b32-8abb-5f336467229a,Owner 3452,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+d46c8016-bb98-4188-8a35-9c714844d892,Owner 3437,+91XXXXXXXXXX,,London,IN,Seller,Generated
+fef96d1d-8cde-4009-8ca3-63a322a4b80e,Owner 3690,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+6646f04e-f3b6-479c-ace6-5bf0b1c635f7,Owner 5434,+91XXXXXXXXXX,,London,IN,Seller,Generated
+1a97e331-0991-4326-89b8-3c5ed03328dd,Owner 1366,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+da88f969-f137-407a-8ceb-5b864dcf8b55,Owner 3798,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+14468822-8d18-4abe-879e-7532754776a4,Owner 2138,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+81cfe518-9797-4444-bc1d-d74ad4b9d9c1,Owner 2282,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+1e72dd8d-1cd5-4577-8f2d-62fa9014ba3d,Owner 4247,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+4705525f-334d-4b4e-a1f3-c659b3f5b354,Owner 7054,+91XXXXXXXXXX,,London,IN,Seller,Generated
+5910e775-db5b-4f06-a3c8-d3a720e527f2,Owner 271,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+a8a64c96-a461-43e2-8166-f7847fd9a4e1,Owner 4548,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+51d1c79e-a814-47fe-9f72-c6f171f8061b,Owner 3785,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+ef6e6c1c-3bab-4be0-9113-6215e9d58933,Owner 3530,+91XXXXXXXXXX,,London,IN,Seller,Generated
+83a00578-aaf7-4f15-af9e-3826fac0b9ba,Owner 3762,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+4f2ae029-8631-4eee-99a8-2fc2d9163442,Owner 7215,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+363c21b2-937b-4e44-a0e1-d38dfacfddc7,Owner 6849,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+46cd355b-92e8-461f-839e-cc0608a67ed6,Owner 6420,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+1d35736b-5440-4511-ad0e-5cccaa501205,Owner 2321,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+20105cad-d78a-479b-b3c2-daeef43a9dd8,Owner 3756,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+6555f4a2-2ab3-425d-a945-7d58ec032d37,Owner 195,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+c5b83be8-b23d-44b4-81aa-e1eec0acf72e,Owner 389,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+5fa1b022-9954-4c48-be0c-19dd33e5d8dc,Owner 5560,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+01f17b11-84ba-4c1d-91fd-3199282c8a80,Owner 1606,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+86ba9724-c1c5-4462-b41e-ad105a76719a,Owner 2186,+91XXXXXXXXXX,,London,IN,Seller,Generated
+92d6e82e-6174-4611-aae4-1f987ad54924,Owner 8861,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+e4f00c26-5807-46fa-86be-d05af8d8e809,Owner 3168,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+e63353ce-13b7-42be-9dc3-17563d29728e,Owner 8996,+91XXXXXXXXXX,,London,IN,Seller,Generated
+82609a0a-dcd2-426a-8859-d88fbebe6c11,Owner 4004,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+95136447-2a8b-4184-a688-4570b3fe84cb,Owner 1663,+91XXXXXXXXXX,,London,IN,Seller,Generated
+8f88a520-1378-4815-93fc-bf58d45d72d1,Owner 894,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+61ade156-f94c-4f05-8384-dd063f87b1b4,Owner 7743,+91XXXXXXXXXX,,London,IN,Seller,Generated
+e4ee12a8-31eb-499c-ba1f-f0e69c4e3085,Owner 5802,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+72e21c4f-6f47-4ab0-961f-a2f36668812a,Owner 648,+91XXXXXXXXXX,,London,IN,Seller,Generated
+b11dba18-489c-4aaa-b807-5f74fd46a595,Owner 3102,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+781f6177-ba05-4546-b1ff-cddd1ac6c9c2,Owner 4729,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+c3adaaec-9a6d-41ba-b57d-31aac521d96b,Owner 6672,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+6c91af11-2670-4478-b98f-726715292e84,Owner 1045,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+c67f10a8-9ade-4ef3-b32b-1a1694dd0580,Owner 3929,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+9ac5772c-b6ea-4e2e-b15e-753bb2238675,Owner 9035,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+daf0b7a0-04c1-4524-b793-2ef935bc8f0a,Owner 332,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+b13e26e8-1219-429b-b976-65c760a4d5cd,Owner 9963,+91XXXXXXXXXX,,London,IN,Seller,Generated
+9a27ebff-bae7-4d1a-9b75-d429cc4b1f5f,Owner 1764,+91XXXXXXXXXX,,London,IN,Seller,Generated
+7031d832-8250-424f-9140-ff2667981966,Owner 8583,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+66b14f1f-5042-4698-95d7-4e050cf1a44b,Owner 5199,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+7f05210f-cdd4-4452-af78-666ca907142c,Owner 545,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+84586d4e-7144-4377-b40c-704dbcad468e,Owner 8748,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+8cd2a5d6-a633-4614-944b-7d05c4e00b77,Owner 1596,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+039de1f9-815d-4d0c-b937-263ce145583c,Owner 8950,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+2dd28e82-4370-4e80-b857-bda2eac64a23,Owner 8880,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+2454f62f-9a0b-402a-bdbf-efb6ed3c0f4a,Owner 1886,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+567567b5-4569-467a-9ef9-68bb8adb0d04,Owner 9293,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+d4e39d59-d0cb-4650-9a26-cfe4da9a985d,Owner 6781,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+b9b41e25-0f18-461b-90d5-b466454c221a,Owner 6843,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+41b4dcb6-9e29-4476-b880-cb53621bd27b,Owner 2038,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+96d2a3c6-b0ed-4b8b-b671-13979ef0d90a,Owner 3471,+91XXXXXXXXXX,,London,IN,Seller,Generated
+97a02551-4fea-44c1-b738-817546deb245,Owner 625,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+e24994bd-0942-454e-8784-b14379d8bf90,Owner 3011,+91XXXXXXXXXX,,London,IN,Seller,Generated
+7cae6ef3-41a6-435a-a106-2b77315bb8c9,Owner 2364,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+b0587442-0e39-491c-8921-8d3c07241f70,Owner 3575,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+9d4e4aa2-58bf-49e7-912d-20479ba78adc,Owner 208,+91XXXXXXXXXX,,London,IN,Seller,Generated
+bb49a57c-87eb-47fa-b5f1-175fb419090b,Owner 3954,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+cf650ee3-e48e-417c-ac60-f4bd79b0fb1e,Owner 2564,+91XXXXXXXXXX,,London,IN,Seller,Generated
+a4337f4e-9af9-4b49-adee-d4db9c7ffe3b,Owner 158,+91XXXXXXXXXX,,London,IN,Seller,Generated
+64ca5a18-f871-4865-a8b0-9c64769e5d85,Owner 3950,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+7d3b4abe-9671-4c28-beb8-745b03ce2d66,Owner 6221,+91XXXXXXXXXX,,London,IN,Seller,Generated
+c5fa82d7-c6c6-46c9-8b56-eb99a7106b5a,Owner 6675,+91XXXXXXXXXX,,London,IN,Seller,Generated
+328bf778-9f14-4bfd-9ae8-ba018a5d8b99,Owner 341,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+1f36f0fb-30a7-4a89-b596-276e9e41fd45,Owner 4345,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+bc2b02bf-6913-4e0e-bbb2-03373295fd90,Owner 6981,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+2a9b914d-19ef-48f6-b460-b53306870a32,Owner 5659,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+19efe53c-3075-4d41-9ccf-54245f186dcf,Owner 2784,+91XXXXXXXXXX,,London,IN,Seller,Generated
+e7d06930-f520-4e72-9802-12e43c7b62b1,Owner 4377,+91XXXXXXXXXX,,London,IN,Seller,Generated
+d0ec6dd7-c5ec-44d4-a801-e9e169878997,Owner 2034,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+b7831b8d-dd4d-43bf-91da-4fa5ccb01888,Owner 387,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+48ebd9a8-84c3-4ebd-be6b-af47a266b30e,Owner 1617,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+676134e5-2908-4099-b962-7fd9043f23d4,Owner 9184,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+467cd1ab-d86d-4cc7-bec6-30d24c15d171,Owner 504,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+0607f9ee-71ee-46f3-abe6-170c1b7ea46e,Owner 6356,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+c97819a1-b2cd-42fb-9422-bdd5166ed5d3,Owner 5277,+91XXXXXXXXXX,,London,IN,Seller,Generated
+c4a599ad-a441-425b-9d79-f46ab273e158,Owner 6772,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+5bbedbd0-033e-4379-a6c9-8caabce9682b,Owner 7359,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+e393ae15-a6cb-4504-a3b1-37936de762e8,Owner 3036,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+c5d36495-5840-40be-9fab-0f1816522c54,Owner 4672,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+59ace110-6ccf-4b2e-ae9f-dda1bc604182,Owner 8536,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+6edf4898-0157-4948-8087-dc77690f0a18,Owner 2161,+91XXXXXXXXXX,,London,IN,Seller,Generated
+e9d80883-0053-4572-8e29-db7a360c16fb,Owner 144,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+3b5adadc-f4c3-43f7-8c94-26da7c75d8ac,Owner 4467,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+495fdc81-e45d-411c-96f8-7d40d91fc86f,Owner 2780,+91XXXXXXXXXX,,London,IN,Seller,Generated
+8ee1aaa1-591b-4bb6-a48f-7f3d0efc5f82,Owner 8410,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+eeff8cc6-3f07-4d81-914e-9b244021a9a0,Owner 5332,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+08409f76-8160-4b46-9b40-6f30f385bfbf,Owner 8300,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+b78b9094-ddb0-4fb7-858f-fb8a6f74accb,Owner 7966,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+ffa2d592-5e10-42a2-9c97-01ea57b9831e,Owner 4401,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+bef9f3c3-3ae5-4c1e-88bc-db9d33a5c74a,Owner 5250,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+da398701-0e32-479c-98ad-c880b91a6578,Owner 1839,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+50100252-c21b-4be2-a5ad-6e579747a14d,Owner 4753,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+b9f99f58-8a9e-4bae-9a2f-e7f47cebc3ed,Owner 872,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+5b1ce9f9-f80c-4ab8-9c95-49be4a595f20,Owner 3096,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+27c370a9-0ab6-439c-9afa-9d7f92d6b9ee,Owner 6322,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+74f89935-1d13-488b-82e7-9c11e8d859e6,Owner 234,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+1cff23e6-2861-46b2-801c-509bdc0c95fc,Owner 1239,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+ed0360ac-654c-4b7e-b077-c6161de6785c,Owner 7939,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+6f49c9af-efcf-415f-a985-85979411ec76,Owner 9342,+91XXXXXXXXXX,,London,IN,Seller,Generated
+270dab56-67ce-4c3e-9bb3-22100ab005b4,Owner 9245,+91XXXXXXXXXX,,London,IN,Seller,Generated
+f2048b31-c405-4f44-9e03-51ec30f523f0,Owner 4447,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+4f899ca5-f666-45a9-807c-02191f776f6f,Owner 6882,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+ec2cba47-aa82-48f8-8ee9-1c2c6179d141,Owner 538,+91XXXXXXXXXX,,London,IN,Seller,Generated
+ba18ea76-04fb-467d-a7bb-1d1e5f586ec3,Owner 5147,+91XXXXXXXXXX,,London,IN,Seller,Generated
+d4e5e49d-61dc-4488-b515-4b1f108edf97,Owner 9481,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+b697f9cb-4e82-4775-8ee7-1ec12640eb6e,Owner 7432,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+06e3bda2-51c1-4ce5-8de6-a8485f4eeaad,Owner 3541,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+04ae7c36-5e5a-423c-a85f-20dbd3677375,Owner 9584,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+07e28bc2-82f1-499c-94c3-0566ea10275b,Owner 1738,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+0af22b36-d59f-4318-8201-4dcbe0f16a4f,Owner 2480,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+be39895b-adf6-4a59-8908-fa3f1e31ae5b,Owner 7794,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+8c175b20-2e05-40b6-9c12-7bf2b30f6ba3,Owner 7242,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+37b220fe-cb41-4582-bd56-ab548ea28d50,Owner 7967,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+28a36904-ec9e-4e22-bc7d-2570c7f71b0b,Owner 7134,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+4ddc7647-52bf-4614-8f2a-0d1afc199cc0,Owner 9866,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+d0de152a-e69b-4a0c-ac59-aa51e8f400c6,Owner 4239,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+e0e3b72c-5e3a-408f-a5b6-a4643917385d,Owner 9886,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+068d61e7-4668-4b89-93ad-d35a98853c3c,Owner 7300,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+dfa392ad-e62c-44c0-a1c9-6412c85ae0bf,Owner 6386,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+da81efa5-a2f8-4ff2-9865-9e44d5df1997,Owner 2397,+91XXXXXXXXXX,,London,IN,Seller,Generated
+7a5091bb-ba85-4cb5-8516-3749333822a7,Owner 8263,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+5e13b705-ff42-475c-9933-05f13a105785,Owner 8575,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+8198100c-ddc7-4fa2-9ea8-d8e4a800ebae,Owner 5731,+91XXXXXXXXXX,,London,IN,Seller,Generated
+cc40af4d-020f-4de6-95a9-01d023228299,Owner 9996,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+a7f6bfae-a506-41bc-8809-82ede9b0aa59,Owner 9008,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+5f41fae6-6829-439c-b3dd-fc1333b02396,Owner 9905,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+9163910a-093d-4487-8c6d-bf9152348a51,Owner 7500,+91XXXXXXXXXX,,London,IN,Seller,Generated
+06823c8d-246b-45f6-ab23-e4a5172841c1,Owner 5684,+91XXXXXXXXXX,,London,IN,Seller,Generated
+01c2aede-6662-43a4-a357-6fe436b3282f,Owner 2560,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+4ca8e6af-7ecc-45a3-85f4-96253fe2b1b6,Owner 2642,+91XXXXXXXXXX,,London,IN,Seller,Generated
+ef913552-5106-4146-ad6c-e24bfe36daea,Owner 914,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+fe8f9730-e437-450d-b84e-a45ecfebcb72,Owner 9984,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+6ad10600-2fe9-4305-9611-4dfb16d54252,Owner 5157,+91XXXXXXXXXX,,London,IN,Seller,Generated
+165e75ae-8a38-47c1-90d2-ea89e0852395,Owner 7638,+91XXXXXXXXXX,,London,IN,Seller,Generated
+074f0554-707b-4c13-ae00-a0b31bad9c6d,Owner 5525,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+3ec9dfb0-1520-4549-b10a-b7829f017625,Owner 3090,+91XXXXXXXXXX,,London,IN,Seller,Generated
+dd803dc8-6786-46bc-a0e4-988e146c774b,Owner 5234,+91XXXXXXXXXX,,London,IN,Seller,Generated
+772cc5fa-5b88-4529-b722-17566a5cfdaf,Owner 3176,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+32ca1bc7-0d34-47a8-ac6a-383f298faf26,Owner 2424,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+54ba9d81-6c39-42ed-94b0-cffe523d8d9e,Owner 3379,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+c2d79663-8020-4c88-8c2e-fc8dda23e977,Owner 8422,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+04640b78-e635-4d01-9072-cf572c6b422b,Owner 506,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+f094ee46-812d-411d-b399-8d1a95a16d65,Owner 6751,+91XXXXXXXXXX,,London,IN,Seller,Generated
+ab93dc7e-ec08-4033-ba7d-ffeea91ac8f3,Owner 9165,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+97e464b5-f691-45f7-bab9-5701d6f6b313,Owner 6470,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+72834d8b-73bc-42c2-9b78-cb2c8abd8265,Owner 3644,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+38b3ecde-a335-4c95-bd4e-be9d227c625a,Owner 8315,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+b8ec3c89-3714-481c-9231-8e6d03ec5fea,Owner 7751,+91XXXXXXXXXX,,London,IN,Seller,Generated
+ae25f155-f964-4537-8a4d-8e166b14d8a2,Owner 8782,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+73e33ca6-bee3-4db6-bdf2-1661c3c1ee56,Owner 1666,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+04173cfc-9c89-409b-bfc8-b5a36f065f7c,Owner 4105,+91XXXXXXXXXX,,London,IN,Seller,Generated
+98733bdb-5fe7-48fd-8177-c04ab8528a65,Owner 2068,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+d226c580-d439-455b-95ce-979b76508036,Owner 2351,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+129b1e3e-1fce-45a7-8aa2-529e304a14b6,Owner 9109,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+d8a2dd6e-0027-41d5-ba6f-eee964be66a5,Owner 3587,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+aa81d706-e138-40cf-a5bd-45224dbba17a,Owner 3538,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+8d420273-6335-43bf-9777-746a403ed79b,Owner 3286,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+b5af6493-bee3-4e25-aced-0de11b21c819,Owner 2874,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+9efaf455-285c-4db0-8b04-ef3607f4303a,Owner 6030,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+9a65060c-be96-42d3-b2aa-79504ef7b354,Owner 4278,+91XXXXXXXXXX,,London,IN,Seller,Generated
+ca7ddb0f-24d3-4b88-a7ca-d1550968b2d4,Owner 8346,+91XXXXXXXXXX,,London,IN,Seller,Generated
+c2c43b13-03a1-421d-b7e2-49858eeb6164,Owner 6179,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+04af1ea3-f7a4-49af-8a43-46667b116343,Owner 5689,+91XXXXXXXXXX,,London,IN,Seller,Generated
+8d061548-915a-400b-8220-407446d081de,Owner 3117,+91XXXXXXXXXX,,London,IN,Seller,Generated
+18f1d17e-40ee-4118-a24d-1d3a8145ff27,Owner 4414,+91XXXXXXXXXX,,London,IN,Seller,Generated
+fdec20dd-fb33-41dd-bca6-44469eb4a5dc,Owner 1363,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+d3f32775-653a-432b-a694-d2cca1706b57,Owner 9690,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+db5d203d-c258-4e35-ba30-f2003b1512bb,Owner 4324,+91XXXXXXXXXX,,London,IN,Seller,Generated
+15bfe375-7849-4c4b-8c28-529e6958c967,Owner 3950,+91XXXXXXXXXX,,London,IN,Seller,Generated
+34f47d68-a46f-4d88-a521-521ac7f834ec,Owner 1049,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+d5b98b25-9ed5-4a48-937c-69e6ede52f69,Owner 6438,+91XXXXXXXXXX,,London,IN,Seller,Generated
+59511d90-67a9-482b-8ea0-86ee8ccec37a,Owner 8451,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+04710066-34a4-40ed-a7cc-5c1e73f80c46,Owner 6233,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+a3ea1e85-877a-4c92-9989-d6d3a4801f77,Owner 5809,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+455312c9-9dd6-4e27-9961-cdd3ceaefba1,Owner 403,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+0e9afd4e-2fc1-4875-9f9d-1829e7ede28d,Owner 7067,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+34d31061-64db-499b-8df0-c463591facd7,Owner 9580,+91XXXXXXXXXX,,London,IN,Seller,Generated
+53caf6e1-ec4b-4d41-8a44-8b078e60feb8,Owner 7892,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+ebc267de-37b6-4877-b138-df0cde74d0fc,Owner 8517,+91XXXXXXXXXX,,London,IN,Seller,Generated
+a045f00a-1877-4112-afee-2685a0f4e0a0,Owner 6822,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+3b3f2547-efda-4b59-a0fd-5018afae4935,Owner 4800,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+406c1f53-10ed-468c-a1b0-beace4ddf17c,Owner 9549,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+a8c3ff6d-fd80-4af6-af3f-4a84317088b8,Owner 898,+91XXXXXXXXXX,,London,IN,Seller,Generated
+aa174ed9-7ee7-495b-aea3-ba05ee720eb6,Owner 4615,+91XXXXXXXXXX,,London,IN,Seller,Generated
+5de44818-9f39-493d-a3a9-6a87520d4656,Owner 105,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+d802f7f3-e267-47cb-8d4b-e3f64fea85a5,Owner 191,+91XXXXXXXXXX,,London,IN,Seller,Generated
+39b5c9e9-2e7f-45bd-abf9-fd81005623d1,Owner 4831,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+6b302cff-6806-4362-9cd3-a228d8be0beb,Owner 3011,+91XXXXXXXXXX,,London,IN,Seller,Generated
+09708384-3b0d-4618-a17b-534a3ad9312a,Owner 2068,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+c633a54e-dcbc-4598-b172-d49ffc23ce75,Owner 8936,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+bda7d244-5b01-4686-b853-624a5166c52d,Owner 5261,+91XXXXXXXXXX,,London,IN,Seller,Generated
+6a80b154-8a6e-43d5-b76a-bfb96ba19d00,Owner 3013,+91XXXXXXXXXX,,London,IN,Seller,Generated
+7a99c181-7628-47c1-bcea-617820711d65,Owner 4399,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+8e1785a2-46e6-4f77-90a9-cedc72c3c041,Owner 9258,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+ab8aa24d-02ff-4918-9a27-3fa4e888fc14,Owner 7688,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+cc5e5ebc-168f-46a4-b9d0-369bbade9a47,Owner 9705,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+5cf82478-5062-41bf-82c2-18c395a406b3,Owner 4215,+91XXXXXXXXXX,,London,IN,Seller,Generated
+069870c3-a436-43de-8981-01149e76ccd0,Owner 3049,+91XXXXXXXXXX,,London,IN,Seller,Generated
+584fbba8-971e-4c83-a2e6-e144ce1149f7,Owner 7010,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+abfae1a8-f459-444f-9973-dcf4c4908e61,Owner 604,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+d89b2578-9636-4c25-967b-4f4fd91d1876,Owner 2428,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+5bfd34a4-0505-4743-ba7e-136e41401094,Owner 3139,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+8bdfb6dd-b54b-443d-894b-8b59a2e8bf75,Owner 3596,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+54f81364-4269-4bf6-ba6f-7884a440d09e,Owner 6944,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+2bb3785a-8a1e-4989-bd9c-05153dfa1a2c,Owner 1581,+91XXXXXXXXXX,,London,IN,Seller,Generated
+753fcb5c-a748-4978-a440-75d109b1d953,Owner 8053,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+02f76ac4-fa7e-4d2e-a896-a1a0bcc59b08,Owner 3708,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+c17b1750-3556-4c0f-8cf3-7c0e3ba164ef,Owner 8561,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+a235cb31-cfd9-4b31-80d6-4ae5c128b3e6,Owner 685,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+aa7a92be-aad6-41bd-81ae-569ab3b62327,Owner 49,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+e3790486-ef46-4869-9f78-ec5ac3684714,Owner 9918,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+12c2fd5c-df46-40a1-89c2-5322c05fc8c3,Owner 9108,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+d5c501bd-43b3-40dc-a553-2b6cab238e5a,Owner 5957,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+7efdf1b2-a277-4f1c-a97e-53d0a719437c,Owner 839,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+df710bec-1bb9-456f-953e-78751f36844a,Owner 3973,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+520ac035-4b21-4209-8ecf-7e3dab415020,Owner 941,+91XXXXXXXXXX,,London,IN,Seller,Generated
+a08f53b2-44f6-4960-bf30-6827cdf84dee,Owner 1050,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+a88725c5-cf3d-4d59-bb07-947cca5377ee,Owner 1355,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+dbf82292-dd5f-40c6-982c-0d1fd8ccc93a,Owner 8777,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+e3c435ae-6a0c-4f13-86df-33a2811c09f5,Owner 7725,+91XXXXXXXXXX,,London,IN,Seller,Generated
+e24d94cc-bfae-4b60-b51c-c45713642777,Owner 2778,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+132cf38d-031b-4cd6-b4f0-b5d8b8400084,Owner 4230,+91XXXXXXXXXX,,London,IN,Seller,Generated
+42fc63a0-f7fe-466a-8e7a-ea5f4c177764,Owner 7058,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+88dae590-eea8-4478-815f-5015ba646e56,Owner 3141,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+74b7aaa6-e9f9-4ea0-b091-51d58e9da360,Owner 420,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+7928cb79-cb51-4976-a694-c23ab2a3e18e,Owner 3474,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+162ed835-621f-4feb-9aee-3c11c6d38650,Owner 4678,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+036c4cca-8516-427c-bc49-b9a41445d106,Owner 787,+91XXXXXXXXXX,,London,IN,Seller,Generated
+fac420a1-8d00-41f6-ab70-48e67a0dc977,Owner 526,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+37c5b5d0-49ff-4e27-9044-c3eb5375babe,Owner 7050,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+48b7583c-2a65-4241-85e2-0d3ea11c1539,Owner 101,+91XXXXXXXXXX,,London,IN,Seller,Generated
+1777239d-5788-4520-bdea-d867f48e7776,Owner 841,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+19dda547-677d-48a3-ad23-4419061b7895,Owner 4200,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+d5018757-9ebb-4658-8546-23c0f2860283,Owner 1957,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+a201e324-55b6-49bf-933c-50c9d4a988a0,Owner 9726,+91XXXXXXXXXX,,London,IN,Seller,Generated
+597d10d9-4049-4625-9c4c-34bc08569ab8,Owner 765,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+4fa06f8a-ec39-487e-857f-b026314edec0,Owner 1099,+91XXXXXXXXXX,,London,IN,Seller,Generated
+396f5906-a817-4c30-8e56-894df49ce13c,Owner 6689,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+3d47a736-235c-4adb-af79-024272327ad0,Owner 4929,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+ac8db1d9-1692-4485-bcf7-6d5335fae4f7,Owner 1879,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+a3cc16e8-b752-41bf-89c8-8bd4b2a5a505,Owner 4442,+91XXXXXXXXXX,,London,IN,Seller,Generated
+3e740f7a-96d8-4371-8687-dede62dd0b25,Owner 4096,+91XXXXXXXXXX,,London,IN,Seller,Generated
+f7fee74b-99a1-4f35-a6ab-b8d226795701,Owner 6804,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+1228629d-1657-4872-b024-06854f524496,Owner 518,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+6353e2aa-4273-439d-bf7d-64ec54a67bd8,Owner 3216,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+4063ff04-0b8d-4ce3-a700-64db8ce35c11,Owner 1332,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+1867b032-b2c9-4c4f-a5eb-e89cd33ca1a8,Owner 9072,+91XXXXXXXXXX,,London,IN,Seller,Generated
+1306ed1e-71e9-4c53-bb96-ae0f7d23aca8,Owner 7335,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+9c58ed23-af55-445d-ae7a-c66154aca368,Owner 7530,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+66db1fe6-de2d-43c1-82b0-653c999d3cb4,Owner 6668,+91XXXXXXXXXX,,London,IN,Seller,Generated
+daaf8beb-1755-464c-aff5-17c72448a908,Owner 8261,+91XXXXXXXXXX,,London,IN,Seller,Generated
+f3cdfa84-90dc-4149-a07e-8864040fcd08,Owner 4974,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+3f5f06bf-8d50-460d-94d7-35328485e80e,Owner 6028,+91XXXXXXXXXX,,London,IN,Seller,Generated
+e831402b-588c-4e16-917c-f52c40abc9b6,Owner 8688,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+0b23ac03-7342-40d0-8903-f9aa67ab8553,Owner 6126,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+7f4f6080-e157-43d1-9cfd-279dee1d717f,Owner 6231,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+c3124a1e-e784-49fa-9170-0a281c3f8c02,Owner 4644,+91XXXXXXXXXX,,London,IN,Seller,Generated
+8a90876e-de1f-407f-8e7b-19214f16d5a4,Owner 8293,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+fc3d5274-084d-43aa-a9cd-c2925826e9bd,Owner 1637,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+1ca6bc12-223a-427e-b61e-3e32606ec831,Owner 2627,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+22a32c13-d29b-4c0d-99f7-a1c405ea0077,Owner 503,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+0d800504-0d65-4e9b-8291-519be17713e1,Owner 3558,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+85f05b82-7fa8-4edf-8f27-21beb821120b,Owner 8168,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+aab7d7da-f59d-4a62-832e-92a5e7c4d9cd,Owner 3334,+91XXXXXXXXXX,,London,IN,Seller,Generated
+26887ee1-dccd-4ed1-b5f6-ee81a181f393,Owner 1298,+91XXXXXXXXXX,,London,IN,Seller,Generated
+2de88d4e-dc35-4db1-8866-2437300ffcef,Owner 5254,+91XXXXXXXXXX,,London,IN,Seller,Generated
+cbc8c042-4b42-490d-84ed-e1db1d54dc48,Owner 4236,+91XXXXXXXXXX,,London,IN,Seller,Generated
+a4342911-299f-456e-aad0-5e0f232f3fd2,Owner 2012,+91XXXXXXXXXX,,London,IN,Seller,Generated
+d0326893-2f73-4e2a-ae03-3d97b9cfdff5,Owner 490,+91XXXXXXXXXX,,London,IN,Seller,Generated
+4f21082f-e8e4-45e2-9642-d0f8b988a469,Owner 5480,+91XXXXXXXXXX,,London,IN,Seller,Generated
+08a06d90-2697-4a40-9eb6-e33962bcf9a6,Owner 3416,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+358d5b98-923f-4e81-8214-dc5c69d3efba,Owner 2837,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+3def21e1-36ce-4ad2-82f2-54d311f33007,Owner 8350,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+69bab5d1-74f2-4edc-bd83-b97af919c893,Owner 4589,+91XXXXXXXXXX,,London,IN,Seller,Generated
+cfc2ba37-60a5-4046-af91-d73bfea4cbfa,Owner 6381,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+2ecaf6ea-7883-4e4c-9269-7c342746ed22,Owner 5430,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+dd223562-b81c-4ce1-b890-22ba780bdf48,Owner 1019,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+03da7213-77a7-4af8-ac48-ed6b3bcb2557,Owner 2987,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+a789d93a-7bbc-4388-a56e-5c9739fa21cc,Owner 7576,+91XXXXXXXXXX,,London,IN,Seller,Generated
+957fd284-0b97-4c09-93af-03fe61ba3338,Owner 252,+91XXXXXXXXXX,,London,IN,Seller,Generated
+46a80773-c05d-4c45-8e64-266b1a59d2f7,Owner 8372,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+eb33cb30-30eb-4e8d-b78f-63bf5f04ef02,Owner 3267,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+b23badd7-2e91-4365-b4aa-4bfbcdf12ff6,Owner 2552,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+4519f779-17b4-4e03-a239-3a7ac69c648d,Owner 7727,+91XXXXXXXXXX,,London,IN,Seller,Generated
+f5cf98ad-d579-4e2a-82f5-f4a81d9a6986,Owner 1398,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+8cf84e78-55c8-462d-80a6-c8669bb916e1,Owner 9470,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+f42d1627-8dfa-48e0-81dd-5edabca210f3,Owner 1882,+91XXXXXXXXXX,,London,IN,Seller,Generated
+7f90fae6-cf06-46cc-8a86-097a7c4e5a63,Owner 2813,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+a659779f-0dc4-4a20-8b77-17f68f9356a6,Owner 8905,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+3821c83c-03b6-40e7-b514-5cc9de7e7cb9,Owner 6739,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+9666a7ad-4614-4e27-96bd-6239d1e91d5e,Owner 5869,+91XXXXXXXXXX,,London,IN,Seller,Generated
+4e4eecb9-a3a7-43dc-a741-819430ecc554,Owner 8402,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+f1ea1eb3-b406-4575-9496-0d5c31c43a00,Owner 7154,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+c53848cd-7ad5-4712-8c60-477f93d2803c,Owner 2289,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+122094f8-1820-45f8-9f64-dfb7142f965f,Owner 2411,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+71c65b2f-3d4c-4b2b-b111-93b8389f04e1,Owner 2680,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+7d626610-2647-4f54-b32b-a850b4a6fabc,Owner 9030,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+78817fa3-d295-4ff3-876a-2533787233c3,Owner 9501,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+101cd258-4adc-4839-ae66-25101a6feb47,Owner 5134,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+0bcb5cb0-9853-42b5-8878-f21f88c9f060,Owner 6859,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+14d1c693-211d-417c-aac5-195ad673b4eb,Owner 7407,+91XXXXXXXXXX,,London,IN,Seller,Generated
+8eb0767b-e191-4fb5-abac-5e633de85338,Owner 871,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+216b5f3c-9a33-45ba-a2fa-f8118ccc652f,Owner 4512,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+a9d33946-6313-493f-a218-5faab25d00d7,Owner 9763,+91XXXXXXXXXX,,London,IN,Seller,Generated
+2c9c6614-847a-49c9-9313-a894e8bf5f3c,Owner 4456,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+35de7d5e-6f69-4399-a0cf-662954fc6fa0,Owner 1877,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+23da2ab2-3226-4170-8752-0e5046e28afa,Owner 9080,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+921a2c4e-eb95-4856-9773-9ce28db97405,Owner 7463,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+ee6d61b5-3703-4b5b-ba2b-c3f74b7fe30a,Owner 9915,+91XXXXXXXXXX,,London,IN,Seller,Generated
+f50edee3-4d33-4962-ba2a-745c0a5ad4f0,Owner 5016,+91XXXXXXXXXX,,London,IN,Seller,Generated
+359de896-9f83-4699-bc0b-be5699ba8812,Owner 1487,+91XXXXXXXXXX,,London,IN,Seller,Generated
+889d956b-603c-402b-90d4-c2183cb3c9e4,Owner 8962,+91XXXXXXXXXX,,London,IN,Seller,Generated
+9a5783a1-5af9-460e-aec5-ed1cc6574665,Owner 3319,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+88c94afe-e073-416b-9ff9-8f5384b2235e,Owner 6787,+91XXXXXXXXXX,,London,IN,Seller,Generated
+11f0a102-5b00-450c-80ef-138b66c3eee4,Owner 6367,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+97b03abf-0827-4473-a438-1dd009804d3d,Owner 8863,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+a6e69193-5e8e-47bd-962b-6e329a637111,Owner 3750,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+4b771e83-a03a-4d07-897b-8349ab841651,Owner 6847,+91XXXXXXXXXX,,London,IN,Seller,Generated
+903bd8d2-c358-4577-9874-e0bf315c7382,Owner 7997,+91XXXXXXXXXX,,London,IN,Seller,Generated
+358e94e4-4ac1-4187-bec5-7a14d0f9da0d,Owner 3910,+91XXXXXXXXXX,,London,IN,Seller,Generated
+bb6a232d-2339-4c2a-bc2e-a609083d6f35,Owner 4398,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+f48e418f-8a3c-4b4c-9dac-06b733f300a9,Owner 8308,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+d3b95c37-400a-48cb-afe0-c110e1a0badb,Owner 8610,+91XXXXXXXXXX,,London,IN,Seller,Generated
+ee0d491a-429d-46d4-99bc-9b6ee4b7cac0,Owner 7329,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+66fd7e89-5067-4059-84d9-4d4673d22cad,Owner 1580,+91XXXXXXXXXX,,London,IN,Seller,Generated
+95b551fe-f941-487c-92d7-37732a5fa0b4,Owner 4545,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+f9d11929-3dc1-4263-adaa-437015e38cdf,Owner 9183,+91XXXXXXXXXX,,London,IN,Seller,Generated
+f67a578c-5d07-4e66-a689-ee2b9edb599e,Owner 1107,+91XXXXXXXXXX,,London,IN,Seller,Generated
+16e40769-c9bf-4a45-a607-5a658249145d,Owner 6288,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+fd08a67f-fa5d-471a-98c3-f048c5b45619,Owner 7147,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+04fc155d-adf3-4255-837b-a82d6ac82adf,Owner 6260,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+d13790df-e235-4c27-bd7c-719fb2053c85,Owner 7130,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+572848dd-4d38-4d08-8bb1-ea10bfedf80a,Owner 2573,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+f67fe4a0-1109-482b-99aa-9b726136fde8,Owner 6137,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+ddf5e7be-8f7b-4b71-812c-df7faa499320,Owner 9689,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+4ebd3ca2-4bb4-4df0-b335-cd101371cf99,Owner 5347,+91XXXXXXXXXX,,London,IN,Seller,Generated
+13f693c4-2077-435e-8676-afd6cee26b82,Owner 3113,+91XXXXXXXXXX,,London,IN,Seller,Generated
+62666fbd-c2e9-497d-977f-d33cda83dece,Owner 364,+91XXXXXXXXXX,,London,IN,Seller,Generated
+0e2a35f1-ff97-475d-a404-bce98bc008d5,Owner 7353,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+10b789b3-e370-485b-af47-dc243a7a726f,Owner 8936,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+7c791a2c-1a2d-4c0b-822e-5271d811f5a9,Owner 2630,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+6e47a4b4-59f3-4de3-b346-e6b2741bdf8a,Owner 6336,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+3a40924a-f19d-4455-b1d4-07fc48bedcd0,Owner 2225,+91XXXXXXXXXX,,London,IN,Seller,Generated
+e05b9631-6fad-401e-8545-d0cc643efa7b,Owner 3976,+91XXXXXXXXXX,,London,IN,Seller,Generated
+6a83a66b-68ea-46f2-a2b5-1d1c99eac996,Owner 5948,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+7f82198b-ca15-4244-aff3-4e351dda3e8b,Owner 4986,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+f5144101-bdd5-450d-8c0c-61209cf0eab7,Owner 466,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+381f73a9-b820-4722-bd28-3c98f31326d5,Owner 9732,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+da9feea0-d615-431d-aae4-f1d9ddaf04ba,Owner 2638,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+64b98dc3-9dee-4c42-9d84-672b49a47708,Owner 4262,+91XXXXXXXXXX,,London,IN,Seller,Generated
+05a03f25-eb55-4b84-9f3a-44dfc9f0d6d4,Owner 6404,+91XXXXXXXXXX,,London,IN,Seller,Generated
+997da49d-4f2c-420d-abb5-82426301d36b,Owner 4827,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+3fa6b8a1-710d-41f6-82e5-1d151b4ac46e,Owner 3956,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+404d68b7-1634-4076-a7b1-3f4a117baf42,Owner 1607,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+e0f05a7c-d927-4e4a-a761-2d20b4e55211,Owner 4751,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+ee8e454b-d574-41f9-aaf7-3d37db4c3171,Owner 8828,+91XXXXXXXXXX,,London,IN,Seller,Generated
+26b5b52d-e7e0-49ca-9daf-f86e697d8195,Owner 1468,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+1421c935-d70f-42e4-acab-99a1a3f892e9,Owner 9612,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+1ef93a9e-a229-4798-a5a9-4f6b765704e0,Owner 3061,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+93b24f43-afcb-44f8-af62-58f2fb3533a2,Owner 8319,+91XXXXXXXXXX,,London,IN,Seller,Generated
+6049f467-0e09-43f4-968f-41fea9310055,Owner 4128,+91XXXXXXXXXX,,London,IN,Seller,Generated
+3a4a5cd0-a1b2-4920-b9ef-747c791175d9,Owner 1907,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+fefeeee2-5cbc-4c28-a183-62dec7936454,Owner 992,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+30de849d-6396-4f3e-bffb-903beae60fd1,Owner 3340,+91XXXXXXXXXX,,London,IN,Seller,Generated
+e5679706-efb1-4740-a146-dda9e9ef4aa2,Owner 3036,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+700e1381-729e-4625-b067-13cb58fce670,Owner 5112,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+408a9eb9-ed81-4cfb-8612-c5545e97fb26,Owner 5588,+91XXXXXXXXXX,,London,IN,Seller,Generated
+afbe045d-9b47-4918-9c21-eae39491d692,Owner 7331,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+6ed75b86-c63a-402a-9ded-9890075ca72e,Owner 8378,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+ff0de52e-ab85-439f-a891-27865647117c,Owner 4351,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+22070d28-e432-4758-b0b4-bb37d6193a4e,Owner 2656,+91XXXXXXXXXX,,London,IN,Seller,Generated
+5706ffee-9cc3-4a27-bad1-9726e06178a4,Owner 6608,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+2bff4a60-ade2-4b4f-adf1-288b141b0bf0,Owner 5432,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+fba8332d-cd80-47cb-b650-89d8c5805ee7,Owner 9007,+91XXXXXXXXXX,,London,IN,Seller,Generated
+5f31f72c-739b-47ce-b464-8f4a0bd4d2ed,Owner 2723,+91XXXXXXXXXX,,London,IN,Seller,Generated
+728f473e-bfdd-4ab5-a75f-d65d96690c8e,Owner 6931,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+926c638f-0fed-4bde-ac3a-62e28722b08e,Owner 2299,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+d7ab739f-e920-4f7f-a405-2dfa9f6250f3,Owner 5801,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+0a4a9229-12b4-47cc-97ac-e6648977080b,Owner 9792,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+fd681019-3ff5-4221-9cf3-0cdf98d3a68a,Owner 4141,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+4648e87c-eb3f-4bf8-88a6-6152c99fa930,Owner 6030,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+37e59fb6-19c8-4d77-8ad8-1255554f3f52,Owner 7518,+91XXXXXXXXXX,,London,IN,Seller,Generated
+fb73fe84-40ff-4e8d-a2c9-a6f153a9a4fc,Owner 8533,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+a2ccef40-c0b4-45e1-a701-c2e617a23782,Owner 3500,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+6a883e2e-0705-453f-8199-ae4e3e10c4c7,Owner 8314,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+72193275-6201-4f21-ad5e-6f2179e4e320,Owner 7337,+91XXXXXXXXXX,,London,IN,Seller,Generated
+35e2d06c-1153-420b-a395-60ab26ff8846,Owner 2422,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+6580cb53-154d-49b1-89dd-beac3dbeca37,Owner 1216,+91XXXXXXXXXX,,London,IN,Seller,Generated
+00a955d4-3f7d-462d-b500-0e2c16d8d11c,Owner 4271,+91XXXXXXXXXX,,London,IN,Seller,Generated
+590ed16d-d605-45ea-943f-6d02e3977d6d,Owner 3459,+91XXXXXXXXXX,,London,IN,Seller,Generated
+986bb942-2288-4416-b48e-2f08e37be977,Owner 3433,+91XXXXXXXXXX,,London,IN,Seller,Generated
+33af7127-f17a-42c8-9e31-b7f4e877b915,Owner 2030,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+836260c9-76f0-45ce-834f-b10a5c6be552,Owner 3200,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+ffc93c6b-e9ea-4b24-b643-4f9f91357afb,Owner 8205,+91XXXXXXXXXX,,London,IN,Seller,Generated
+5b4a5dc0-ecdc-49de-8590-6f5a7ccf0dc6,Owner 1337,+91XXXXXXXXXX,,London,IN,Seller,Generated
+eb6479cd-1af6-421e-9d0c-9afc58eec102,Owner 9886,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+7bcf3ae5-d21b-4002-8791-de6f14670fad,Owner 2257,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+b1b8c624-cffb-4ec1-9552-92d0baa1fb3f,Owner 5908,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+b0b86dee-ca5c-44be-9084-846048e1af18,Owner 7186,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+9a8123e4-ebfb-48f5-af4c-df2217a4e3d4,Owner 5297,+91XXXXXXXXXX,,London,IN,Seller,Generated
+9811b3df-c505-45b4-9ce5-9394d34aebc4,Owner 62,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+bbbf8c8c-266a-4d71-a47c-d0565b55ae6b,Owner 2993,+91XXXXXXXXXX,,London,IN,Seller,Generated
+4d766b32-75bb-49b1-9c2d-5017558fd806,Owner 5148,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+db865155-dbe7-428a-ade0-99676b92de71,Owner 5390,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+f5e1a899-d1e3-46f7-a26f-fbc1a91b5acf,Owner 4100,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+1f5bae82-01a9-4141-aeda-39be1286f337,Owner 3618,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+28f4b0c5-dad9-4c15-9905-5ef74cee0ba3,Owner 8539,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+33a0b4c0-5824-4650-b58d-3d8168549e33,Owner 2313,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+7d14a7bf-7435-4b0a-9d55-e3ea94907b1d,Owner 3391,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+f4ec284d-b42c-428e-af3b-14a0135672fe,Owner 2098,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+43fcbe41-ae17-42fb-b8f3-f81eee91a41b,Owner 9224,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+9c6fed06-fb2a-4daf-b095-8cfb86a33840,Owner 4993,+91XXXXXXXXXX,,London,IN,Seller,Generated
+411a1068-c08d-4d38-bcee-40b96cc249dc,Owner 9352,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+7e5e2d0e-1fad-47c2-98da-cf5bc24472d3,Owner 4417,+91XXXXXXXXXX,,London,IN,Seller,Generated
+53db993a-55ac-4c6c-b26a-368c07be0c5f,Owner 5630,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+6a0176a3-f132-4755-8feb-6b8d480d4994,Owner 3063,+91XXXXXXXXXX,,New York,IN,Seller,Generated
+305b1bc0-4fd6-4e4d-bb07-7376bbcd467f,Owner 9603,+91XXXXXXXXXX,,Mumbai,IN,Seller,Generated
+83c233d0-857a-4e1c-815e-f684cbba6b11,Owner 5744,+91XXXXXXXXXX,,Delhi,IN,Seller,Generated
+51bdcb64-e862-4c01-b4b2-1bcf100aa9ef,Owner 1266,+91XXXXXXXXXX,,London,IN,Seller,Generated
+a2e89083-86ee-4c2d-ad53-47352e4fe5f3,Owner 7594,+91XXXXXXXXXX,,New York,IN,Seller,Generated
